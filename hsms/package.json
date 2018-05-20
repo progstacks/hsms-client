@@ -1,0 +1,11 @@
+{
+  "name" : "hsms",
+  "version" : "0.0.1",
+  "dependencies" : {},
+  "private": true,
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/restimguay/node-hsms.git"
+  }
+  "main": "index.js"
+}
